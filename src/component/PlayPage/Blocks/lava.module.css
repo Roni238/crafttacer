@@ -1,0 +1,9 @@
+.lava{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-image: url('https://tiermaker.com/images/templates/minecraft-rsg-any--speedrunners-924019/9240191617311045.png');
+    z-index: 100;
+    background-size: cover;
+
+}

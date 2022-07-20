@@ -1,0 +1,15 @@
+.app-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+.menuItem{
+  margin: 4px;
+  display: block;
+  color: rgb(100, 121, 100);
+  text-decoration: none;
+  padding: 3px;
+}
